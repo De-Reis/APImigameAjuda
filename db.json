@@ -1,0 +1,53 @@
+{
+  "chamados": [
+    {
+      "id": 1,
+      "nome": "Cristina",
+      "assunto": "Como subir projeto no GitHub?",
+      "descricao": "Oi migas, me ajudem!! Estou com dificuldade para criar um repositório meu no GitHub. Poderia me ajudar por favor?",
+      "contato": "(00) (00000-0000)",
+      "status": "aberto"
+    },
+    {
+      "id": 2,
+      "nome": "Amanda",
+      "assunto": "Como criar componentes no react?",
+      "descricao": "Olá amigas, esqueci como faz para criar um componente no react, alguém poderia me auxiliar?",
+      "contato": "(00) (00000-0000)",
+      "status": "aberto"
+    },
+    {
+      "id": 3,
+      "nome": "Daiane",
+      "assunto": "Como consumir API",
+      "descricao": "Oi migas!! Qual a melhor forma de consumir uma API, fetch ou axios?",
+      "contato": "(00) (00000-0000)",
+      "status": "aberto"
+    },
+    {
+      "id": 4,
+      "nome": "Rafaela",
+      "assunto": "Como incluir música no meu site",
+      "descricao": "Migas, estou construindo o site de um estúdio de música, e preciso saber como faço para incluir uma música na home do site. Alguém sabe?",
+      "contato": "(00) (00000-0000)",
+      "status": "fechado"
+    },
+    {
+      "id": 5,
+      "nome": "Fernanda",
+      "assunto": "Erro ao subir projeto no netlify",
+      "descricao": "Migas, fui subir meu projeto no netlify e deu o erro anexo, alguém sabe resolver ou pode me ajudar?",
+      "contato": "(00) (00000-0000)",
+      "status": "fechado"
+    },
+    {
+      "id": 6,
+      "nome": "Beatriz",
+      "assunto": "Imagem não aparece na tela",
+      "descricao": "Oi migas, já fiz de tudo, mas minha imagem não aparece no card, alguém consegue me ajudar? Imagem do código anexo.",
+      "contato": "(00) (00000-0000)",
+      "status": "fechado"
+    }
+
+  ]
+}
