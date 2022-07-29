@@ -6,6 +6,7 @@
       "assunto": "Como subir projeto no GitHub?",
       "descricao": "Oi migas, me ajudem!! Estou com dificuldade para criar um repositório meu no GitHub. Poderia me ajudar por favor?",
       "contato": "(11) (95427-9657)",
+      "tecnologia": "Git e Github",
       "status": "aberto"
     },
     {
@@ -14,6 +15,7 @@
       "assunto": "Como criar componentes no react?",
       "descricao": "Olá amigas, esqueci como faz para criar um componente no react, alguém poderia me auxiliar?",
       "contato": "(82) (99874-9847)",
+      "tecnologia": "JavaScript",
       "status": "aberto"
     },
     {
@@ -22,6 +24,7 @@
       "assunto": "Como consumir API",
       "descricao": "Oi migas!! Qual a melhor forma de consumir uma API, fetch ou axios?",
       "contato": "(38) (988749-4978)",
+      "tecnologia": "Outros",
       "status": "aberto"
     },
     {
@@ -30,6 +33,7 @@
       "assunto": "Como incluir música no meu site",
       "descricao": "Migas, estou construindo o site de um estúdio de música, e preciso saber como faço para incluir uma música na home do site. Alguém sabe?",
       "contato": "(71) (99974-0497)",
+      "tecnologia": "CSS",
       "status": "fechado"
     },
     {
@@ -38,6 +42,7 @@
       "assunto": "Erro ao subir projeto no netlify",
       "descricao": "Migas, fui subir meu projeto no netlify e deu o erro anexo, alguém sabe resolver ou pode me ajudar?",
       "contato": "(38) (988749-4978)",
+      "tecnologia": "Hospedagem de site",
       "status": "fechado"
     },
     {
@@ -46,6 +51,7 @@
       "assunto": "Imagem não aparece na tela",
       "descricao": "Oi migas, já fiz de tudo, mas minha imagem não aparece no card, alguém consegue me ajudar? Imagem do código anexo.",
       "contato": "(13) (97897-9579)",
+      "tecnologia": "Projeto",
       "status": "fechado"
     }
 
